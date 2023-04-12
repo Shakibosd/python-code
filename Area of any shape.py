@@ -1,14 +1,16 @@
 # Python Bangla Tutorials 9 : Area of any shape
 '''
 Triangle
-Atra = 0.5* b* h
+Area = 0.5* b* h
 b = base
-h = vartical height
+h = Vartical height
 '''
 base = float(input("Enter Base : "))
 height = float(input("Enter Height : "))
 area = 0.5 * base * height
 print("Triangle Area = ",area)
+
+
 
 
 
