@@ -1,0 +1,23 @@
+.link-button{
+ text-align: center;
+ text-decoration: none;
+ background-image: linear-gradient(50deg, rgb(13, 103, 13), rgb(9, 112, 114),rgb(186, 19, 64));
+ padding: 10px 20px;
+ border-radius: 7px;
+ color: white;
+ float: 800;
+}
+caption{
+ color: blue;
+}
+table{
+ border-collapse: collapse;
+}
+td,th{
+ border: 1px solid lightgray;
+ padding-left: 10px;
+ border-radius: 5px;
+}
+.iupo {
+ color: rgb(27, 103, 74);
+}
